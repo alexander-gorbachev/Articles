@@ -1,0 +1,6 @@
+.DS_Store
+xcuserdata
+private.*
+HTTPClient/.DS_Store
+*.xcconfig
+
